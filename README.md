@@ -10,8 +10,8 @@
 - 🎓 **ECE student specializing in Artificial Intelligence**  
 - 🔭 Projects I've worked on:
   - 🛠 **Industrial Monitoring Hybrid Model** (LSTM Autoencoder + CNN-LSTM)  
-  - ✍️ **Handwritten Character Recognition**: Recognizes 62 classes (digits, uppercase/lowercase letters) using EMNIST ByClass dataset. Built with PyTorch; includes confusion matrix and learning curves; :contentReference[oaicite:0]{index=0}.  
-  - 🗣️ **Speech Emotion Recognition**: Classifies emotions from audio using MFCC features, CNN + BiLSTM model trained on both RAVDESS and TESS datasets. Includes accuracy, F1-score, confusion matrix; :contentReference[oaicite:1]{index=1}.   
+  - ✍️ **Handwritten Character Recognition**: Recognizes 62 classes (digits, uppercase/lowercase letters) using EMNIST ByClass dataset. Built with PyTorch; includes confusion matrix and learning curves  :contentReference[oaicite:0]{index=0}.  
+  - 🗣️ **Speech Emotion Recognition**: Classifies emotions from audio using MFCC features, CNN + BiLSTM model trained on both RAVDESS and TESS datasets. Includes accuracy, F1-score, confusion matrix :contentReference[oaicite:1]{index=1}.   
 - 🌱 Interested in **AI for industry and automation**  
 - 📫 Reach me at: **[www.linkedin.com/in/
 kanishkarajput](mailto:your-email@example.com)**  
@@ -36,7 +36,7 @@ kanishkarajput](mailto:your-email@example.com)**
 ![Librosa](https://img.shields.io/badge/Librosa-FF8800?style=for-the-badge&logo=python&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![Torchvision](https://img.shields.io/badge/Torchvision-000?style=for-the-badge&logo=python&logoColor=white) — datasets & transformations for vision tasks :contentReference[oaicite:2]{index=2}  
+![Torchvision](https://img.shields.io/badge/Torchvision-000?style=for-the-badge&logo=python&logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)  
 
 ### Tools & Platforms  
