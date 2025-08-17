@@ -10,8 +10,8 @@
 - 🎓 **ECE student specializing in Artificial Intelligence**  
 - 🔭 Projects I've worked on:
   - 🛠 **Industrial Monitoring Hybrid Model** (LSTM Autoencoder + CNN-LSTM)  
-  - ✍️ **Handwritten Character Recognition**: Recognizes 62 classes (digits, uppercase/lowercase letters) using EMNIST ByClass dataset. Built with PyTorch; includes confusion matrix and learning curves  :contentReference[oaicite:0]{index=0}.  
-  - 🗣️ **Speech Emotion Recognition**: Classifies emotions from audio using MFCC features, CNN + BiLSTM model trained on both RAVDESS and TESS datasets. Includes accuracy, F1-score, confusion matrix :contentReference[oaicite:1]{index=1}.   
+  - ✍️ **Handwritten Character Recognition**: Recognizes 62 classes (digits, uppercase/lowercase letters) using EMNIST ByClass dataset. Built with PyTorch; includes confusion matrix and learning curves   
+  - 🗣️ **Speech Emotion Recognition**: Classifies emotions from audio using MFCC features, CNN + BiLSTM model trained on both RAVDESS and TESS datasets. Includes accuracy, F1-score, confusion matrix   
 - 🌱 Interested in **AI for industry and automation**  
 - 📫 Reach me at: **[www.linkedin.com/in/
 kanishkarajput](mailto:your-email@example.com)**  
