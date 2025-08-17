@@ -11,13 +11,6 @@
 </p>  
 
 ---
-# Hi there , I'm Kanishka Rajput  
-
-🚀 Passionate about **AI, Machine Learning, and Intelligent Systems**  
-💡 Exploring how deep learning can solve real-world industrial and research problems  
-📚 Currently working on a **Hybrid Deep Learning Model for Industrial Applications**  
-
----
 
 ## 🧑‍💻 About Me  
 - 🎓 **ECE student specializing in Artificial Intelligence**  
