@@ -1,3 +1,16 @@
+<h1 align="center">Kanishka Rajput</h1>  
+<h3 align="center">ECE Student | AI & Deep Learning Enthusiast</h3>  
+
+<p align="center">
+  <a href="https://github.com/kanishka9r">
+    <img src="https://img.shields.io/github/followers/kanishka9r?label=Follow&style=social" alt="GitHub Follow"/>
+  </a>
+  <a href="https://github.com/kanishka9r">
+    <img src="https://img.shields.io/github/stars/kanishka9r?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars"/>
+  </a>
+</p>  
+
+---
 # Hi there , I'm Kanishka Rajput  
 
 🚀 Passionate about **AI, Machine Learning, and Intelligent Systems**  
