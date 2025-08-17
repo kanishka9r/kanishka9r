@@ -56,8 +56,8 @@ kanishkarajput](mailto:your-email@example.com)**
 ## 📂 Featured Repositories  
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kanishka9r&repo=pipeline-fault-detectionn&theme=tokyonight)](https://github.com/kanishka9r/pipeline-fault-detectionn)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kanishka9r&repo=speech-emotion-recognition&theme=tokyonight)](https://github.com/kanishka9r/speech-emotion-recognition)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kanishka9r&repo=handwritten-character-recognition&theme=tokyonight)](https://github.com/kanishka9r/handwritten-character-recognition)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kanishka9r&repo=speech-emotion-recognition&theme=tokyonight)](https://github.com/kanishka9r/emotion_recognition_from_speech.git)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kanishka9r&repo=handwritten-character-recognition&theme=tokyonight)](https://github.com/kanishka9r/handwritten_character_recognition.git)  
 
 ---
 
